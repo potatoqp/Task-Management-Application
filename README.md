@@ -13,4 +13,4 @@ A simple task management application built with Spring Boot and React. It allows
 - Database: PostgreSQL running in Docker
 
 ## Note
-The frontend was copied from a tutorial that I followed and was not written by me.
+The frontend was copied from a tutorial that I followed (Devtiro) and was not written by me.
